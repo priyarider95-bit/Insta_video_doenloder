@@ -13,7 +13,7 @@ HTML_TEMPLATE = """
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"><meta name="google-site-verification" content="YhC7qvJ2THwDehwk9YCsYdGuUvA86PvjzzTQLGc_Elk" />
     <title>InstaMaster - Fast Downloader</title>
     <style>
         body { background-color: #0b0b0b; color: #ffffff; font-family: Arial, sans-serif; text-align: center; margin: 0; padding: 10px; }
